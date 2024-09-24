@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvis Edorodion</h1>
 <h3 align="center">Recent Data Analyst Graduate| Passionate about turning data into actionable insights</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvqute" alt="marvqute" /></a> </p>
+
 
 - 🔭 I’m currently working on **exploring real world datasets and generating insights**
 
