@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **exploring real world datasets and generating insights**
 
-- 🌱 I’m currently learning **deepening my understanding of SQL Queries. enhancing my machine learning skills**
+- 🌱 I’m currently learning: **deepening my understanding of SQL Queries, enhancing my machine learning skills**
 
 - 👨‍💻 All of my projects are available at [datascienceportfol.io/MarvisEdorodion](datascienceportfol.io/MarvisEdorodion)
 
