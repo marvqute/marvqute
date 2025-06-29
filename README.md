@@ -3,17 +3,42 @@
 
 
 
-- 🔭 I’m currently working on **exploring real world datasets and generating insights**
+Absolutely—let’s recompose your GitHub bio so it feels polished, professional, and also includes your cloud journey:
 
-- 🌱 I’m currently learning: **deepening my understanding of SQL Queries, enhancing my machine learning skills**
+---
 
-- 👨‍💻 All of my projects are available at [datascienceportfol.io/MarvisEdorodion](datascienceportfol.io/MarvisEdorodion)
 
-- 💬 Ask me about **Data Analysis, Visualization, Data Manipulation**
 
-- 📫 How to reach me **edorodionmarv1992@gmail.com**
+🔭 **Current Focus:** Exploring real-world datasets to uncover meaningful trends and generate impactful recommendations
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/766326b4/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/766326b4/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+🌱 **Learning & Growth:**
+
+* Deepening my knowledge of SQL queries
+* Enhancing my machine learning skills
+* Expanding my cloud expertise on AWS (AWS Certified Cloud Practitioner)
+
+☁️ **My Cloud Journey:**
+I’m actively building hands-on projects in the cloud, including serverless APIs with AWS Lambda, DynamoDB, and API Gateway, as well as VPC monitoring and cost optimization strategies.
+
+👨‍💻 **Projects & Portfolio:**
+All of my work is showcased here: mycloudportfolio.carrd.co
+
+💬 **Ask Me About:**
+Data Analysis • Visualization • Data Manipulation • Cloud Adoption for Analytics
+
+📫 **Let’s Connect:**
+📧 [edorodionmarv1992@gmail.com](mailto:edorodionmarv1992@gmail.com)
+
+📄 **Experience & Resume:**
+[View My Resume(https://drive.google.com/file/d/10EyMtRlLXPLexGNJlWHrNt3mP4FcR0wR/view?usp=sharing)
+
+⚡ **Fun Fact:**
+I think I’m pretty funny and creative 😁
+
+---
+
+Would you like help tailoring this further for a specific audience (e.g., recruiters, collaborators, or mentors)?
+
 
 - ⚡ Fun fact **I think i am funny and creative 😁**
 
